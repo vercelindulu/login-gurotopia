@@ -7,9 +7,10 @@
     "dev": "bun run --watch index.ts"
   },
   "dependencies": {
-    "cors": "^2.8.5",
-    "express": "^5.2.1",
-    "express-rate-limit": "^8.2.1"
+  "cors": "^2.8.5",
+  "express": "^5.2.1",
+  "express-rate-limit": "^8.2.1",
+  "mysql2": "^3.14.3"
   },
   "devDependencies": {
     "@types/cors": "^2.8.19",
